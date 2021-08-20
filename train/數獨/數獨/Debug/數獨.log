@@ -1,0 +1,5 @@
+﻿  數獨.cpp
+C:\Users\MSI PC\Desktop\數獨\數獨\數獨.cpp(16,12): warning C4101: 'n': 未參考的區域變數
+C:\Users\MSI PC\Desktop\數獨\數獨\數獨.cpp(56,13): warning C4566: 由通用字元名稱 '\u2610' 表示的字元，無法在目前的字碼頁中表示 (950)
+數獨.obj : error LNK2005: _main 已在 rea.obj 中定義過了
+C:\Users\MSI PC\Desktop\數獨\Debug\數獨.exe : fatal error LNK1169: 找到有一或多個已定義的符號
